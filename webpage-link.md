@@ -2,7 +2,7 @@
 
 The project output can be viewed live at the following link:
 
-[Click here to view the webpage]([http://127.0.0.1:8000/](https://salmon-oliy-65.tiiny.site/)
+[Click here to view the webpage]([http://127.0.0.1:8000/](https://salmon-oliy-65.tiiny.site/))
 
 ---
 
